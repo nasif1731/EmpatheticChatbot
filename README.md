@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` file for your Empathetic Transformer Chatbot project, ready for GitHub:
-
-```markdown
 # Empathetic Transformer Chatbot
 
 A custom-built Transformer-based dialogue system designed to generate empathetic responses. This project implements a sequence-to-sequence model from scratch using PyTorch, trained on the **EmpatheticDialogues** dataset. It features emotion-conditioned generation and a custom BPE tokenizer.
