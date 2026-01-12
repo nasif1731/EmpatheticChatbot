@@ -1,0 +1,12 @@
+vocab_size=32000
+embed_dim=512
+num_heads=2
+ff_dim=2048
+encoder_layers=2
+decoder_layers=2
+dropout=0.3
+max_len=256
+PAD_ID=0
+BOS_ID=1
+EOS_ID=2
+UNK_ID=3
