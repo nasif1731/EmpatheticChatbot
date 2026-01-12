@@ -124,6 +124,4 @@ This project is open-source. Please refer to the specific license of the Empathe
 ---
 
 *Note: This project is designed for educational purposes to understand Transformer architecture implementation and empathetic text generation.*
-```
 
-Feel free to customize any sections as needed or add additional information relevant to your project!
